@@ -17,8 +17,6 @@ I build ambitious, useful software at the intersection of
 
 I'm a student developer who enjoys turning ideas into polished, real-world products. My projects range from AI-powered productivity tools and educational platforms to real-time coding experiences, mathematical collaboration tools, and automation software.
 
-- 🧠 Building **BrainQuest**, a cross-platform platform for strengthening critical-thinking and problem-solving skills
-- ⚡ Developing **ProdoDesk**, an AI-powered personal productivity workspace
 - 🤖 Exploring AI agents, tool calling, streaming interfaces, and intelligent workflows
 - 📱 Building full-stack experiences across the web and mobile devices
 - ➗ Interested in mathematics, computational research, and educational technology
